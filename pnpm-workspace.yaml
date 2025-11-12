@@ -1,2 +1,4 @@
+env:
+   imagename: marialuisaharanita/image-conversion:github.ref_name
 onlyBuiltDependencies:
   - esbuild
